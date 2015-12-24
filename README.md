@@ -18,4 +18,5 @@ I have generated a Javadoc for a clean reference to almost everything in the pro
 I have also created a detailed class diagram for the project. It can be found under ./docs/class_diagram/ folder.
 
 #### License
-The project is licensed under the MIT License.
+Let me state that I do not own the rights of the assets "asset_logo.png" and "asset_map.jpg" located in the ./source/ directory. If anyone who claims the rights of these assets requests me to remove them I will do it immidiately. Therefore, please do not redistribute them.  
+Other than that, the source code of the project is licensed under the MIT License.
