@@ -1,0 +1,5 @@
+*****************
+StraUML v2 Issue:
+*****************
+
+There seems to be a problem with the StarUML v2 ./Ceng546_HW1.mdj file. It does not always show all the class associations. However, these associations can be seen clearly from the ./Ceng546_HW1.svg and ./Ceng546_HW1.png files. If proper layout is applied however, these associations can be seen. Unfortunately, the diagram will look too scrambled.
